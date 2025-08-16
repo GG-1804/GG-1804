@@ -8,8 +8,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 B.Tech in **Electronics & Communication Engineering** at **NIT Silchar** (CGPA: 9.03)
-- 💻 **Full-Stack Developer Intern** at SkillCaptain  
+- 🎓 B.Tech in **Electronics & Communication Engineering** at **NIT Silchar**
 - 🛠 Skilled in **React, React Native, Django, Spring Boot** and **REST API Development**
 - 🚀 Interested in **Web & App Development, Data Structures, and System Design**
 - ✍️ Love creating impactful projects and contributing to open-source
@@ -40,17 +39,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 
 </p>
-
----
-
-### 🚀 **Highlighted Projects**
-- 🎬 **[Movie Review Web Application](https://github.com/GG-1804/movie-review-webapp)**  
-  _Dynamic review system with user authentication and rating features._  
-  **Tech:** Django, React.js, HTML, CSS
-
-- 🔍 **[Sorting Visualizer](https://github.com/GG-1804/sorting-visualizer)**  
-  _Interactive platform visualizing sorting algorithms with animations._  
-  **Tech:** HTML, CSS, JavaScript
 
 ---
 
